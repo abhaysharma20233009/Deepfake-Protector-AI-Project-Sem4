@@ -9,6 +9,7 @@ from tensorflow.keras.layers import Dense, Dropout, GlobalAveragePooling2D
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 
+
 # ✅ Check TensorFlow version
 print('TensorFlow version:', tf.__version__)
 
